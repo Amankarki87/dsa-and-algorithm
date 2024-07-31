@@ -21,6 +21,7 @@ public class ReverseLinkedList {
         traversal(reverseList(node1));
     }
 
+    // T - O(n), S - O(1)
     public static ListNode reverseList(ListNode head) {
         ListNode current = head;
         ListNode previous = null;
