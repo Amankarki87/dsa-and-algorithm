@@ -1,4 +1,4 @@
-package org.dsa.linkedList;
+package org.dsa.linkedList.singlyLL;
 
 
 public class SingleLL {

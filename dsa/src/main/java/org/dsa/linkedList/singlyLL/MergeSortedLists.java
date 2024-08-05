@@ -1,6 +1,6 @@
-package org.dsa.linkedList;
+package org.dsa.linkedList.singlyLL;
 
-import org.dsa.linkedList.ListNode;
+import org.dsa.linkedList.singlyLL.ListNode;
 
 /**
  * You are given the heads of two sorted linked lists list1 and list2.
